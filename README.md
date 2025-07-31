@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Flipkart-Product-Scrapper
-=======
 ## Flipkart Product Scraper
 A simple Python web scraping script that allows you to search for any product on Flipkart.com and extract details like product title, price, and rating. The scraped data can be saved in either .xlsx or .csv format using Pandas.
 
