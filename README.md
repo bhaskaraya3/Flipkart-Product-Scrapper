@@ -62,5 +62,14 @@ This is for educational purposes only. Respect website terms of use.
 -->Add product links
 -->Include seller or availability info
 
+## Installation
+bash
+git clone https://github.com/bhaskaraya3/Flipkart_Product_Scrapper
+cd Flipkart_Product_Scrapper
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
+
 This project is open source and free to use under the MIT License.
 
